@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.que2'
+    namespace 'com.example.que7'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.que2"
+        applicationId "com.example.que7"
         minSdk 16
         targetSdk 33
         versionCode 1

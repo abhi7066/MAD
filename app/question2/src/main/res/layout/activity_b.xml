@@ -6,13 +6,13 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:padding="16dp"
-    tools:context=".MainActivity">
+    tools:context=".ActivityB">
 
     <TextView
-        android:id="@+id/textViewMain"
+        android:id="@+id/textViewB"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Main Activity"
+        android:text="Activity B"
         android:textSize="24sp"
         android:layout_centerInParent="true" />
 </RelativeLayout>

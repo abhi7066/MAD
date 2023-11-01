@@ -1,4 +1,4 @@
-package com.example.que3b;
+package com.example.que2;
 
 import org.junit.Test;
 
